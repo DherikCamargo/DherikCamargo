@@ -1,4 +1,4 @@
-### oii 👋
+### Olá! 👋
 
 - 🌱 Possuo conhecimento em  JavaScript - HTML - CSS - Git.
 - Estudando e me dedicando todos os dias para continuar crescendo como Dev
